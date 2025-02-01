@@ -1,0 +1,33 @@
+{
+  "Index": {
+    "generateVideo": "Generate Video"
+  },
+  "Main": {
+    "inputPromptVideo": "Input the prompt to generate a video",
+    "inputPlaceholder": "Draw a red circle and transform it into a square",
+    "generating": "Generating...",
+    "generate": "Generate",
+    "renderFromCode": "Render a video from code",
+    "video": "Video",
+    "rendering": "Rendering...",
+    "render": "Render",
+    "inputCodeRender": "Input the code to render a video",
+    "inputPromptCode": "Input the prompt to generate code",
+    "copy": "Copy",
+    "download": "Download",
+    "modelGroups": {
+      "openai": "OpenAI GPT",
+      "claude": "Claude",
+      "deepseek": "Deepseek"
+    },
+    "models": {
+      "gpt4": "GPT-4o",
+      "gpt35FineTuned": "Fine-tuned GPT-3.5",
+      "gpt35Physics": "Physics Fine-tuned GPT-3.5",
+      "claude35": "Claude 3.5 Sonnet",
+      "claude3": "Claude 3 Sonnet",
+      "deepseekR1": "Deepseek R1"
+    }
+  },
+  "Page": {}
+}
